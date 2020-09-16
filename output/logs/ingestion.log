@@ -1,0 +1,112 @@
+[INFO   ] [ingestion:46] 2020-09-15 17:42:44,164 root         Successfully read ../data/source/cs-train/invoices-2018-01.json, 35682 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:44,434 root         Successfully read ../data/source/cs-train/invoices-2017-12.json, 35726 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:44,752 root         Successfully read ../data/source/cs-train/invoices-2019-01.json, 39121 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:45,344 root         Successfully read ../data/source/cs-train/invoices-2018-11.json, 86138 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:45,615 root         Successfully read ../data/source/cs-train/invoices-2018-07.json, 34097 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:45,886 root         Successfully read ../data/source/cs-train/invoices-2019-06.json, 34601 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:46,206 root         Successfully read ../data/source/cs-train/invoices-2019-07.json, 42018 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:46,516 root         Successfully read ../data/source/cs-train/invoices-2018-06.json, 38987 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:46,973 root         Successfully read ../data/source/cs-train/invoices-2018-10.json, 61752 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:47,311 root         Successfully read ../data/source/cs-train/invoices-2018-09.json, 42379 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:47,558 root         Successfully read ../data/source/cs-train/invoices-2019-04.json, 29825 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:47,870 root         Successfully read ../data/source/cs-train/invoices-2018-05.json, 38391 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:48,261 root         Successfully read ../data/source/cs-train/invoices-2018-12.json, 50166 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:48,541 root         Successfully read ../data/source/cs-train/invoices-2018-04.json, 33183 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:48,860 root         Successfully read ../data/source/cs-train/invoices-2019-05.json, 39031 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:49,134 root         Successfully read ../data/source/cs-train/invoices-2018-08.json, 33448 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:49,364 root         Successfully read ../data/source/cs-train/invoices-2019-02.json, 27418 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:49,672 root         Successfully read ../data/source/cs-train/invoices-2018-03.json, 38618 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:49,784 root         Successfully read ../data/source/cs-train/invoices-2017-11.json, 9502 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:50,025 root         Successfully read ../data/source/cs-train/invoices-2018-02.json, 29873 rows
+[INFO   ] [ingestion:46] 2020-09-15 17:42:50,304 root         Successfully read ../data/source/cs-train/invoices-2019-03.json, 35055 rows
+[INFO   ] [ingestion:59] 2020-09-15 17:42:50,936 root         Successfully ingested 21 files, 815011 total rows
+[INFO   ] [log_helper:11] 2020-09-15 17:42:51,001 root         ingest_json_data runtime: 7.066981792449951 sec
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,380 root         process_data runtime: 3.3785510063171387 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,546 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Australia
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,546 root         export_data runtime: 0.004225015640258789 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,549 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Austria
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,550 root         export_data runtime: 0.0027420520782470703 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,552 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Bahrain
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,552 root         export_data runtime: 0.0023658275604248047 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,555 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Belgium
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,556 root         export_data runtime: 0.0028810501098632812 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,557 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Bermuda
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,558 root         export_data runtime: 0.0016047954559326172 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,560 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Brazil
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,560 root         export_data runtime: 0.0018630027770996094 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,562 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Canada
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,562 root         export_data runtime: 0.0019299983978271484 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,565 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Channel Islands
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,565 root         export_data runtime: 0.0027348995208740234 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,568 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Cyprus
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,568 root         export_data runtime: 0.002613067626953125 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,570 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Czech Republic
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,570 root         export_data runtime: 0.0014307498931884766 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,573 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Denmark
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,573 root         export_data runtime: 0.002543210983276367 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,576 root         Successfully overwrote output to ../data/intermediate/clean_train_data_EIRE
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,576 root         export_data runtime: 0.0027399063110351562 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,578 root         Successfully overwrote output to ../data/intermediate/clean_train_data_European Community
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,578 root         export_data runtime: 0.0018801689147949219 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,581 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Finland
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,582 root         export_data runtime: 0.0026941299438476562 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,585 root         Successfully overwrote output to ../data/intermediate/clean_train_data_France
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,585 root         export_data runtime: 0.0028569698333740234 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,588 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Germany
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,588 root         export_data runtime: 0.002939939498901367 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,592 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Greece
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,592 root         export_data runtime: 0.0034301280975341797 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,595 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Hong Kong
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,596 root         export_data runtime: 0.002813100814819336 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,599 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Iceland
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,599 root         export_data runtime: 0.0025482177734375 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,602 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Israel
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,603 root         export_data runtime: 0.0033180713653564453 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,606 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Italy
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,607 root         export_data runtime: 0.003451108932495117 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,611 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Japan
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,611 root         export_data runtime: 0.003877878189086914 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,615 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Korea
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,615 root         export_data runtime: 0.0029649734497070312 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,618 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Lebanon
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,618 root         export_data runtime: 0.0022878646850585938 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,620 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Lithuania
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,620 root         export_data runtime: 0.001995086669921875 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,623 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Malta
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,623 root         export_data runtime: 0.002568960189819336 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,626 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Netherlands
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,626 root         export_data runtime: 0.0028209686279296875 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,629 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Nigeria
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,629 root         export_data runtime: 0.0024261474609375 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,633 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Norway
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,633 root         export_data runtime: 0.003200054168701172 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,637 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Poland
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,638 root         export_data runtime: 0.003802061080932617 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,643 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Portugal
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,643 root         export_data runtime: 0.0041370391845703125 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,646 root         Successfully overwrote output to ../data/intermediate/clean_train_data_RSA
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,646 root         export_data runtime: 0.0025920867919921875 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,649 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Saudi Arabia
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,649 root         export_data runtime: 0.002398252487182617 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,652 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Singapore
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,652 root         export_data runtime: 0.003159761428833008 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,657 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Spain
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,657 root         export_data runtime: 0.004041910171508789 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,662 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Sweden
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,662 root         export_data runtime: 0.0039370059967041016 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,666 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Switzerland
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,666 root         export_data runtime: 0.0036630630493164062 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,669 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Thailand
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,669 root         export_data runtime: 0.0027871131896972656 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,673 root         Successfully overwrote output to ../data/intermediate/clean_train_data_USA
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,674 root         export_data runtime: 0.0038068294525146484 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,677 root         Successfully overwrote output to ../data/intermediate/clean_train_data_United Arab Emirates
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,678 root         export_data runtime: 0.003530263900756836 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,682 root         Successfully overwrote output to ../data/intermediate/clean_train_data_United Kingdom
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,682 root         export_data runtime: 0.004007101058959961 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,686 root         Successfully overwrote output to ../data/intermediate/clean_train_data_Unspecified
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,686 root         export_data runtime: 0.002872943878173828 sec
+[INFO   ] [ingestion:77] 2020-09-15 17:42:54,689 root         Successfully overwrote output to ../data/intermediate/clean_train_data_West Indies
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,689 root         export_data runtime: 0.002382993698120117 sec
+[INFO   ] [log_helper:11] 2020-09-15 17:42:54,689 root         export_data runtime: 0.14960098266601562 sec
+[INFO   ] [ingestion:97] 2020-09-15 17:42:54,689 root         Data ingestion complete, runtime 10.75564694404602 sec

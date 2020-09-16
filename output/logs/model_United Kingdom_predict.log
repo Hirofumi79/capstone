@@ -1,0 +1,51 @@
+[INFO   ] [model:76] 2020-09-15 17:43:38,371 root         Loading  model ../models/model_United Kingdom.joblib
+[INFO   ] [model:82] 2020-09-15 17:43:38,377 root         Model: model_United Kingdom Prediction: [28376.70416869 37247.4946941  31065.4382776  32861.3094505
+ 30010.02446838] Runtime: 0.00494384765625 Horizon: 5
+[INFO   ] [log_helper:11] 2020-09-15 17:43:38,377 root         predict runtime: 0.005880832672119141 sec
+[INFO   ] [model:77] 2020-09-15 18:08:11,236 root         Loading  model models/model_United Kingdom.joblib
+[INFO   ] [model:83] 2020-09-15 18:08:11,243 root         Model: model_United Kingdom Prediction: [28431.11598213] Runtime: 0.006452083587646484 Horizon: 1
+[INFO   ] [log_helper:11] 2020-09-15 18:08:11,244 root         predict_model runtime: 0.008303165435791016 sec
+[ERROR  ] [httptools_impl:393] 2020-09-15 18:08:11,245 uvicorn.error Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/applications.py", line 181, in __call__
+    await super().__call__(scope, receive, send)  # pragma: no cover
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/routing.py", line 199, in app
+    is_coroutine=is_coroutine,
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/routing.py", line 122, in serialize_response
+    return jsonable_encoder(response_content)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/encoders.py", line 139, in jsonable_encoder
+    raise ValueError(errors)
+ValueError: [TypeError('cannot convert dictionary update sequence element #0 to a sequence',), TypeError('vars() argument must have __dict__ attribute',)]
+[INFO   ] [main:535] 2020-09-15 18:08:27,498 uvicorn.error Shutting down
+[INFO   ] [on:39] 2020-09-15 18:08:27,601 uvicorn.error Waiting for application shutdown.
+[INFO   ] [on:42] 2020-09-15 18:08:27,601 uvicorn.error Application shutdown complete.
+[INFO   ] [main:418] 2020-09-15 18:08:27,601 uvicorn.error Finished server process [72080]
+[INFO   ] [model:77] 2020-09-15 18:08:31,093 root         Loading  model models/model_United Kingdom.joblib
+[INFO   ] [model:83] 2020-09-15 18:08:31,099 root         Model: model_United Kingdom Prediction: [28431.11598213] Runtime: 0.006101131439208984 Horizon: 1
+[INFO   ] [log_helper:11] 2020-09-15 18:08:31,099 root         predict_model runtime: 0.006755828857421875 sec
+[INFO   ] [model:77] 2020-09-15 18:08:40,812 root         Loading  model models/model_United Kingdom.joblib
+[INFO   ] [model:83] 2020-09-15 18:08:40,817 root         Model: model_United Kingdom Prediction: [28431.11598213 37326.96453972 31159.82566246 32966.99018155
+ 30138.87160677] Runtime: 0.004663228988647461 Horizon: 5
+[INFO   ] [log_helper:11] 2020-09-15 18:08:40,817 root         predict_model runtime: 0.005691051483154297 sec
+[INFO   ] [main:535] 2020-09-15 18:12:34,354 uvicorn.error Shutting down
+[INFO   ] [main:418] 2020-09-15 18:12:34,459 uvicorn.error Finished server process [72084]

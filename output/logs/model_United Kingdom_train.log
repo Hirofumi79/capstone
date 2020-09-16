@@ -1,0 +1,293 @@
+[INFO   ] [model:27] 2020-09-15 17:43:01,783 root         Splitting train-test data by 50%, incrementally adding data from test into train
+[INFO   ] [model:31] 2020-09-15 17:43:01,783 root         Training model to predict the next time step ...
+[INFO   ] [model:46] 2020-09-15 17:43:02,093 root         predicted=65175.483627, expected=98725.730000
+[INFO   ] [model:46] 2020-09-15 17:43:02,333 root         predicted=75008.954686, expected=71280.280000
+[INFO   ] [model:46] 2020-09-15 17:43:02,591 root         predicted=60911.386614, expected=11898.400000
+[INFO   ] [model:46] 2020-09-15 17:43:02,916 root         predicted=47593.010378, expected=37742.930000
+[INFO   ] [model:46] 2020-09-15 17:43:03,203 root         predicted=45836.295986, expected=50224.150000
+[INFO   ] [model:46] 2020-09-15 17:43:03,479 root         predicted=52342.382112, expected=77880.581000
+[INFO   ] [model:46] 2020-09-15 17:43:03,756 root         predicted=71501.412333, expected=60502.091000
+[INFO   ] [model:46] 2020-09-15 17:43:04,005 root         predicted=68532.458272, expected=66444.390000
+[INFO   ] [model:46] 2020-09-15 17:43:04,266 root         predicted=49161.600343, expected=95776.810000
+[INFO   ] [model:46] 2020-09-15 17:43:04,543 root         predicted=80259.090132, expected=266675.850000
+[INFO   ] [model:46] 2020-09-15 17:43:04,824 root         predicted=206032.318051, expected=49032.060000
+[INFO   ] [model:46] 2020-09-15 17:43:05,099 root         predicted=91070.166779, expected=24865.990000
+[INFO   ] [model:46] 2020-09-15 17:43:05,381 root         predicted=98583.204411, expected=0.000000
+[INFO   ] [model:46] 2020-09-15 17:43:05,765 root         predicted=138367.209530, expected=57541.340000
+[INFO   ] [model:46] 2020-09-15 17:43:06,089 root         predicted=43745.676940, expected=32144.850000
+[INFO   ] [model:46] 2020-09-15 17:43:06,407 root         predicted=115889.480765, expected=36311.250000
+[INFO   ] [model:46] 2020-09-15 17:43:06,652 root         predicted=26895.634319, expected=26969.650000
+[INFO   ] [model:46] 2020-09-15 17:43:06,899 root         predicted=39564.150827, expected=25949.830000
+[INFO   ] [model:46] 2020-09-15 17:43:07,145 root         predicted=20197.547802, expected=24244.620000
+[INFO   ] [model:46] 2020-09-15 17:43:07,409 root         predicted=33149.303496, expected=26918.790000
+[INFO   ] [model:46] 2020-09-15 17:43:07,675 root         predicted=26182.897118, expected=38886.610000
+[INFO   ] [model:46] 2020-09-15 17:43:07,918 root         predicted=33530.939216, expected=25715.700000
+[INFO   ] [model:46] 2020-09-15 17:43:08,183 root         predicted=25330.561511, expected=27727.030000
+[INFO   ] [model:46] 2020-09-15 17:43:08,463 root         predicted=26891.664689, expected=40617.170000
+[INFO   ] [model:46] 2020-09-15 17:43:08,737 root         predicted=36748.558527, expected=27973.950000
+[INFO   ] [model:46] 2020-09-15 17:43:08,987 root         predicted=26124.460857, expected=37024.360000
+[INFO   ] [model:46] 2020-09-15 17:43:09,355 root         predicted=34281.516878, expected=29141.700000
+[INFO   ] [model:46] 2020-09-15 17:43:09,591 root         predicted=32348.232278, expected=24909.931000
+[INFO   ] [model:46] 2020-09-15 17:43:09,822 root         predicted=25134.932834, expected=30336.220000
+[INFO   ] [model:46] 2020-09-15 17:43:10,068 root         predicted=33743.646607, expected=17882.680000
+[INFO   ] [model:46] 2020-09-15 17:43:10,377 root         predicted=22037.823248, expected=48189.830000
+[INFO   ] [model:46] 2020-09-15 17:43:10,685 root         predicted=37325.439846, expected=41260.150000
+[INFO   ] [model:46] 2020-09-15 17:43:10,919 root         predicted=36029.207313, expected=48343.020000
+[INFO   ] [model:46] 2020-09-15 17:43:11,174 root         predicted=34734.080660, expected=27077.890000
+[INFO   ] [model:46] 2020-09-15 17:43:11,427 root         predicted=36570.358414, expected=23639.340000
+[INFO   ] [model:46] 2020-09-15 17:43:11,724 root         predicted=27021.187580, expected=74554.530000
+[INFO   ] [model:46] 2020-09-15 17:43:12,019 root         predicted=59487.957688, expected=28551.890000
+[INFO   ] [model:46] 2020-09-15 17:43:12,325 root         predicted=31529.841629, expected=38175.150000
+[INFO   ] [model:46] 2020-09-15 17:43:12,614 root         predicted=35955.411451, expected=24087.450000
+[INFO   ] [model:46] 2020-09-15 17:43:12,872 root         predicted=42109.217043, expected=37043.680000
+[INFO   ] [model:46] 2020-09-15 17:43:13,261 root         predicted=29097.302280, expected=37416.860000
+[INFO   ] [model:46] 2020-09-15 17:43:13,603 root         predicted=43232.838292, expected=54500.440000
+[INFO   ] [model:46] 2020-09-15 17:43:13,928 root         predicted=39262.073650, expected=24771.901000
+[INFO   ] [model:46] 2020-09-15 17:43:14,292 root         predicted=33074.544724, expected=24228.980000
+[INFO   ] [model:48] 2020-09-15 17:43:14,292 root         Test MSE: 2257098136.569
+[INFO   ] [model:58] 2020-09-15 17:43:14,620 root         Saved plot ../output/plots/model_United Kingdom_plot.png
+[INFO   ] [model:65] 2020-09-15 17:43:15,304 root         Saved model ../output/plots/model_United Kingdom_plot.png
+[INFO   ] [log_helper:11] 2020-09-15 17:43:15,304 root         train_model runtime: 13.521488904953003 sec
+[INFO   ] [model:27] 2020-09-15 18:05:05,049 root         Splitting train-test data by 50%, incrementally adding data from test into train
+[INFO   ] [model:31] 2020-09-15 18:05:05,055 root         Training model to predict the next time step ...
+[INFO   ] [model:46] 2020-09-15 18:05:05,546 root         predicted=65145.409369, expected=98725.730000
+[INFO   ] [model:46] 2020-09-15 18:05:06,003 root         predicted=74938.219620, expected=71280.280000
+[INFO   ] [model:46] 2020-09-15 18:05:06,361 root         predicted=60936.182989, expected=11898.400000
+[INFO   ] [model:46] 2020-09-15 18:05:06,696 root         predicted=47627.984961, expected=37742.930000
+[INFO   ] [model:46] 2020-09-15 18:05:07,010 root         predicted=45868.371231, expected=50224.150000
+[INFO   ] [model:46] 2020-09-15 18:05:07,307 root         predicted=52329.885812, expected=77880.581000
+[INFO   ] [model:46] 2020-09-15 18:05:07,612 root         predicted=71519.554426, expected=60502.091000
+[INFO   ] [model:46] 2020-09-15 18:05:08,120 root         predicted=68562.201927, expected=66444.390000
+[INFO   ] [model:46] 2020-09-15 18:05:08,458 root         predicted=49189.371739, expected=95776.810000
+[INFO   ] [model:46] 2020-09-15 18:05:08,784 root         predicted=80265.377593, expected=266675.850000
+[INFO   ] [model:46] 2020-09-15 18:05:09,085 root         predicted=206046.298610, expected=49032.060000
+[INFO   ] [model:46] 2020-09-15 18:05:09,418 root         predicted=91049.692528, expected=24865.990000
+[INFO   ] [model:46] 2020-09-15 18:05:09,739 root         predicted=98437.472522, expected=0.000000
+[INFO   ] [model:46] 2020-09-15 18:05:10,144 root         predicted=138296.221679, expected=57541.340000
+[INFO   ] [model:46] 2020-09-15 18:05:10,481 root         predicted=43817.093042, expected=32144.850000
+[INFO   ] [model:46] 2020-09-15 18:05:10,855 root         predicted=116004.815615, expected=36311.250000
+[INFO   ] [model:46] 2020-09-15 18:05:11,172 root         predicted=26920.294294, expected=26969.650000
+[INFO   ] [model:46] 2020-09-15 18:05:11,474 root         predicted=39574.649422, expected=25949.830000
+[INFO   ] [model:46] 2020-09-15 18:05:11,765 root         predicted=20185.762204, expected=24244.620000
+[INFO   ] [model:46] 2020-09-15 18:05:12,077 root         predicted=33131.093405, expected=26918.790000
+[INFO   ] [model:46] 2020-09-15 18:05:12,377 root         predicted=26176.191579, expected=38886.610000
+[INFO   ] [model:46] 2020-09-15 18:05:12,631 root         predicted=33495.387319, expected=25715.700000
+[INFO   ] [model:46] 2020-09-15 18:05:13,044 root         predicted=25373.331459, expected=27727.030000
+[INFO   ] [model:46] 2020-09-15 18:05:13,360 root         predicted=26897.297131, expected=40617.170000
+[INFO   ] [model:46] 2020-09-15 18:05:13,628 root         predicted=36747.954085, expected=27973.950000
+[INFO   ] [model:46] 2020-09-15 18:05:14,000 root         predicted=26173.677987, expected=37024.360000
+[INFO   ] [model:46] 2020-09-15 18:05:14,372 root         predicted=34336.678264, expected=29141.700000
+[INFO   ] [model:46] 2020-09-15 18:05:14,734 root         predicted=32387.022540, expected=24909.931000
+[INFO   ] [model:46] 2020-09-15 18:05:15,022 root         predicted=25128.914817, expected=30336.220000
+[INFO   ] [model:46] 2020-09-15 18:05:15,391 root         predicted=33792.383958, expected=17882.680000
+[INFO   ] [model:46] 2020-09-15 18:05:15,748 root         predicted=22069.907261, expected=48189.830000
+[INFO   ] [model:46] 2020-09-15 18:05:16,080 root         predicted=37275.031080, expected=41260.150000
+[INFO   ] [model:46] 2020-09-15 18:05:16,417 root         predicted=36063.379093, expected=48343.020000
+[INFO   ] [model:46] 2020-09-15 18:05:16,771 root         predicted=34735.582930, expected=27077.890000
+[INFO   ] [model:46] 2020-09-15 18:05:17,054 root         predicted=36579.520691, expected=23639.340000
+[INFO   ] [model:46] 2020-09-15 18:05:17,340 root         predicted=27058.389857, expected=74554.530000
+[INFO   ] [model:46] 2020-09-15 18:05:17,632 root         predicted=59503.064764, expected=28551.890000
+[INFO   ] [model:46] 2020-09-15 18:05:17,958 root         predicted=31611.667934, expected=38175.150000
+[INFO   ] [model:46] 2020-09-15 18:05:18,197 root         predicted=35968.648918, expected=24087.450000
+[INFO   ] [model:46] 2020-09-15 18:05:18,508 root         predicted=42147.859564, expected=37043.680000
+[INFO   ] [model:46] 2020-09-15 18:05:18,804 root         predicted=29165.175989, expected=37416.860000
+[INFO   ] [model:46] 2020-09-15 18:05:19,059 root         predicted=43246.433760, expected=54500.440000
+[INFO   ] [model:46] 2020-09-15 18:05:19,389 root         predicted=39246.178100, expected=24771.901000
+[INFO   ] [model:46] 2020-09-15 18:05:19,643 root         predicted=33090.650101, expected=24228.980000
+[INFO   ] [model:48] 2020-09-15 18:05:19,644 root         Test MSE: 2256569663.190
+[ERROR  ] [httptools_impl:393] 2020-09-15 18:05:19,906 uvicorn.error Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/applications.py", line 181, in __call__
+    await super().__call__(scope, receive, send)  # pragma: no cover
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/routing.py", line 183, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./app.py", line 46, in train
+    mse = train_model(X, model_name)
+  File "./src/log_helper.py", line 10, in wrapper
+    result = f(*args, **kwargs)
+  File "./src/model.py", line 57, in train_model
+    plt.savefig(plot_path)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/matplotlib/pyplot.py", line 859, in savefig
+    res = fig.savefig(*args, **kwargs)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/matplotlib/figure.py", line 2311, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/matplotlib/backend_bases.py", line 2217, in print_figure
+    **kwargs)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/matplotlib/backend_bases.py", line 1639, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/matplotlib/backends/backend_agg.py", line 512, in print_png
+    dpi=self.figure.dpi, metadata=metadata, pil_kwargs=pil_kwargs)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/matplotlib/image.py", line 1605, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/PIL/Image.py", line 2155, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: '../output/plots/model_United Kingdom_plot.png'
+[INFO   ] [main:535] 2020-09-15 18:05:43,699 uvicorn.error Shutting down
+[INFO   ] [on:39] 2020-09-15 18:05:43,800 uvicorn.error Waiting for application shutdown.
+[INFO   ] [on:42] 2020-09-15 18:05:43,800 uvicorn.error Application shutdown complete.
+[INFO   ] [main:418] 2020-09-15 18:05:43,800 uvicorn.error Finished server process [72059]
+[INFO   ] [model:27] 2020-09-15 18:05:48,928 root         Splitting train-test data by 50%, incrementally adding data from test into train
+[INFO   ] [model:31] 2020-09-15 18:05:48,929 root         Training model to predict the next time step ...
+[INFO   ] [model:46] 2020-09-15 18:05:49,414 root         predicted=65145.409369, expected=98725.730000
+[INFO   ] [model:46] 2020-09-15 18:05:49,883 root         predicted=74938.219620, expected=71280.280000
+[INFO   ] [model:46] 2020-09-15 18:05:50,243 root         predicted=60936.182989, expected=11898.400000
+[INFO   ] [model:46] 2020-09-15 18:05:50,665 root         predicted=47627.984961, expected=37742.930000
+[INFO   ] [model:46] 2020-09-15 18:05:51,119 root         predicted=45868.371231, expected=50224.150000
+[INFO   ] [model:46] 2020-09-15 18:05:51,465 root         predicted=52329.885812, expected=77880.581000
+[INFO   ] [model:46] 2020-09-15 18:05:52,161 root         predicted=71519.554426, expected=60502.091000
+[INFO   ] [model:46] 2020-09-15 18:05:52,888 root         predicted=68562.201927, expected=66444.390000
+[INFO   ] [model:46] 2020-09-15 18:05:53,421 root         predicted=49189.371739, expected=95776.810000
+[INFO   ] [model:46] 2020-09-15 18:05:53,760 root         predicted=80265.377593, expected=266675.850000
+[INFO   ] [model:46] 2020-09-15 18:05:54,065 root         predicted=206046.298610, expected=49032.060000
+[INFO   ] [model:46] 2020-09-15 18:05:54,537 root         predicted=91049.692528, expected=24865.990000
+[INFO   ] [model:46] 2020-09-15 18:05:54,925 root         predicted=98437.472522, expected=0.000000
+[INFO   ] [model:46] 2020-09-15 18:05:55,453 root         predicted=138296.221679, expected=57541.340000
+[INFO   ] [model:46] 2020-09-15 18:05:55,809 root         predicted=43817.093042, expected=32144.850000
+[INFO   ] [model:46] 2020-09-15 18:05:56,180 root         predicted=116004.815615, expected=36311.250000
+[INFO   ] [model:46] 2020-09-15 18:05:56,475 root         predicted=26920.294294, expected=26969.650000
+[INFO   ] [model:46] 2020-09-15 18:05:56,777 root         predicted=39574.649422, expected=25949.830000
+[INFO   ] [model:46] 2020-09-15 18:05:57,073 root         predicted=20185.762204, expected=24244.620000
+[INFO   ] [model:46] 2020-09-15 18:05:57,382 root         predicted=33131.093405, expected=26918.790000
+[INFO   ] [model:46] 2020-09-15 18:05:57,682 root         predicted=26176.191579, expected=38886.610000
+[INFO   ] [model:46] 2020-09-15 18:05:57,940 root         predicted=33495.387319, expected=25715.700000
+[INFO   ] [model:46] 2020-09-15 18:05:58,331 root         predicted=25373.331459, expected=27727.030000
+[INFO   ] [model:46] 2020-09-15 18:05:58,649 root         predicted=26897.297131, expected=40617.170000
+[INFO   ] [model:46] 2020-09-15 18:05:58,933 root         predicted=36747.954085, expected=27973.950000
+[INFO   ] [model:46] 2020-09-15 18:05:59,303 root         predicted=26173.677987, expected=37024.360000
+[INFO   ] [model:46] 2020-09-15 18:05:59,678 root         predicted=34336.678264, expected=29141.700000
+[INFO   ] [model:46] 2020-09-15 18:06:00,040 root         predicted=32387.022540, expected=24909.931000
+[INFO   ] [model:46] 2020-09-15 18:06:00,347 root         predicted=25128.914817, expected=30336.220000
+[INFO   ] [model:46] 2020-09-15 18:06:00,700 root         predicted=33792.383958, expected=17882.680000
+[INFO   ] [model:46] 2020-09-15 18:06:00,999 root         predicted=22069.907261, expected=48189.830000
+[INFO   ] [model:46] 2020-09-15 18:06:01,309 root         predicted=37275.031080, expected=41260.150000
+[INFO   ] [model:46] 2020-09-15 18:06:01,671 root         predicted=36063.379093, expected=48343.020000
+[INFO   ] [model:46] 2020-09-15 18:06:01,995 root         predicted=34735.582930, expected=27077.890000
+[INFO   ] [model:46] 2020-09-15 18:06:02,310 root         predicted=36579.520691, expected=23639.340000
+[INFO   ] [model:46] 2020-09-15 18:06:02,619 root         predicted=27058.389857, expected=74554.530000
+[INFO   ] [model:46] 2020-09-15 18:06:02,917 root         predicted=59503.064764, expected=28551.890000
+[INFO   ] [model:46] 2020-09-15 18:06:03,215 root         predicted=31611.667934, expected=38175.150000
+[INFO   ] [model:46] 2020-09-15 18:06:03,458 root         predicted=35968.648918, expected=24087.450000
+[INFO   ] [model:46] 2020-09-15 18:06:03,778 root         predicted=42147.859564, expected=37043.680000
+[INFO   ] [model:46] 2020-09-15 18:06:04,054 root         predicted=29165.175989, expected=37416.860000
+[INFO   ] [model:46] 2020-09-15 18:06:04,314 root         predicted=43246.433760, expected=54500.440000
+[INFO   ] [model:46] 2020-09-15 18:06:04,656 root         predicted=39246.178100, expected=24771.901000
+[INFO   ] [model:46] 2020-09-15 18:06:04,926 root         predicted=33090.650101, expected=24228.980000
+[INFO   ] [model:48] 2020-09-15 18:06:04,927 root         Test MSE: 2256569663.190
+[INFO   ] [model:58] 2020-09-15 18:06:05,256 root         Saved plot output/plots/model_United Kingdom_plot.png
+[INFO   ] [model:65] 2020-09-15 18:06:05,642 root         Saved model output/plots/model_United Kingdom_plot.png
+[INFO   ] [log_helper:11] 2020-09-15 18:06:05,642 root         train_model runtime: 16.714364290237427 sec
+[ERROR  ] [httptools_impl:393] 2020-09-15 18:06:05,642 uvicorn.error Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/applications.py", line 181, in __call__
+    await super().__call__(scope, receive, send)  # pragma: no cover
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/routing.py", line 183, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/site-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/Users/andreasherman/anaconda3/envs/tjena/lib/python3.6/concurrent/futures/thread.py", line 56, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./app.py", line 47, in train
+    return jsonify({'MSE': mse})
+TypeError: 'module' object is not callable
+[INFO   ] [main:535] 2020-09-15 18:07:30,435 uvicorn.error Shutting down
+[INFO   ] [on:39] 2020-09-15 18:07:30,537 uvicorn.error Waiting for application shutdown.
+[INFO   ] [on:42] 2020-09-15 18:07:30,537 uvicorn.error Application shutdown complete.
+[INFO   ] [main:418] 2020-09-15 18:07:30,538 uvicorn.error Finished server process [72065]
+[INFO   ] [model:27] 2020-09-15 18:07:36,074 root         Splitting train-test data by 50%, incrementally adding data from test into train
+[INFO   ] [model:31] 2020-09-15 18:07:36,074 root         Training model to predict the next time step ...
+[INFO   ] [model:46] 2020-09-15 18:07:36,579 root         predicted=65145.409369, expected=98725.730000
+[INFO   ] [model:46] 2020-09-15 18:07:37,035 root         predicted=74938.219620, expected=71280.280000
+[INFO   ] [model:46] 2020-09-15 18:07:37,367 root         predicted=60936.182989, expected=11898.400000
+[INFO   ] [model:46] 2020-09-15 18:07:37,688 root         predicted=47627.984961, expected=37742.930000
+[INFO   ] [model:46] 2020-09-15 18:07:38,012 root         predicted=45868.371231, expected=50224.150000
+[INFO   ] [model:46] 2020-09-15 18:07:38,311 root         predicted=52329.885812, expected=77880.581000
+[INFO   ] [model:46] 2020-09-15 18:07:38,633 root         predicted=71519.554426, expected=60502.091000
+[INFO   ] [model:46] 2020-09-15 18:07:39,163 root         predicted=68562.201927, expected=66444.390000
+[INFO   ] [model:46] 2020-09-15 18:07:39,508 root         predicted=49189.371739, expected=95776.810000
+[INFO   ] [model:46] 2020-09-15 18:07:39,848 root         predicted=80265.377593, expected=266675.850000
+[INFO   ] [model:46] 2020-09-15 18:07:40,161 root         predicted=206046.298610, expected=49032.060000
+[INFO   ] [model:46] 2020-09-15 18:07:40,498 root         predicted=91049.692528, expected=24865.990000
+[INFO   ] [model:46] 2020-09-15 18:07:40,840 root         predicted=98437.472522, expected=0.000000
+[INFO   ] [model:46] 2020-09-15 18:07:41,261 root         predicted=138296.221679, expected=57541.340000
+[INFO   ] [model:46] 2020-09-15 18:07:41,620 root         predicted=43817.093042, expected=32144.850000
+[INFO   ] [model:46] 2020-09-15 18:07:42,030 root         predicted=116004.815615, expected=36311.250000
+[INFO   ] [model:46] 2020-09-15 18:07:42,333 root         predicted=26920.294294, expected=26969.650000
+[INFO   ] [model:46] 2020-09-15 18:07:42,656 root         predicted=39574.649422, expected=25949.830000
+[INFO   ] [model:46] 2020-09-15 18:07:42,994 root         predicted=20185.762204, expected=24244.620000
+[INFO   ] [model:46] 2020-09-15 18:07:43,316 root         predicted=33131.093405, expected=26918.790000
+[INFO   ] [model:46] 2020-09-15 18:07:43,616 root         predicted=26176.191579, expected=38886.610000
+[INFO   ] [model:46] 2020-09-15 18:07:43,898 root         predicted=33495.387319, expected=25715.700000
+[INFO   ] [model:46] 2020-09-15 18:07:44,304 root         predicted=25373.331459, expected=27727.030000
+[INFO   ] [model:46] 2020-09-15 18:07:44,636 root         predicted=26897.297131, expected=40617.170000
+[INFO   ] [model:46] 2020-09-15 18:07:44,937 root         predicted=36747.954085, expected=27973.950000
+[INFO   ] [model:46] 2020-09-15 18:07:45,359 root         predicted=26173.677987, expected=37024.360000
+[INFO   ] [model:46] 2020-09-15 18:07:45,752 root         predicted=34336.678264, expected=29141.700000
+[INFO   ] [model:46] 2020-09-15 18:07:46,125 root         predicted=32387.022540, expected=24909.931000
+[INFO   ] [model:46] 2020-09-15 18:07:46,428 root         predicted=25128.914817, expected=30336.220000
+[INFO   ] [model:46] 2020-09-15 18:07:46,816 root         predicted=33792.383958, expected=17882.680000
+[INFO   ] [model:46] 2020-09-15 18:07:47,161 root         predicted=22069.907261, expected=48189.830000
+[INFO   ] [model:46] 2020-09-15 18:07:47,679 root         predicted=37275.031080, expected=41260.150000
+[INFO   ] [model:46] 2020-09-15 18:07:48,055 root         predicted=36063.379093, expected=48343.020000
+[INFO   ] [model:46] 2020-09-15 18:07:48,379 root         predicted=34735.582930, expected=27077.890000
+[INFO   ] [model:46] 2020-09-15 18:07:48,681 root         predicted=36579.520691, expected=23639.340000
+[INFO   ] [model:46] 2020-09-15 18:07:48,983 root         predicted=27058.389857, expected=74554.530000
+[INFO   ] [model:46] 2020-09-15 18:07:49,274 root         predicted=59503.064764, expected=28551.890000
+[INFO   ] [model:46] 2020-09-15 18:07:49,589 root         predicted=31611.667934, expected=38175.150000
+[INFO   ] [model:46] 2020-09-15 18:07:49,841 root         predicted=35968.648918, expected=24087.450000
+[INFO   ] [model:46] 2020-09-15 18:07:50,159 root         predicted=42147.859564, expected=37043.680000
+[INFO   ] [model:46] 2020-09-15 18:07:50,437 root         predicted=29165.175989, expected=37416.860000
+[INFO   ] [model:46] 2020-09-15 18:07:50,704 root         predicted=43246.433760, expected=54500.440000
+[INFO   ] [model:46] 2020-09-15 18:07:51,046 root         predicted=39246.178100, expected=24771.901000
+[INFO   ] [model:46] 2020-09-15 18:07:51,304 root         predicted=33090.650101, expected=24228.980000
+[INFO   ] [model:48] 2020-09-15 18:07:51,305 root         Test MSE: 2256569663.190
+[INFO   ] [model:58] 2020-09-15 18:07:51,652 root         Saved plot output/plots/model_United Kingdom_plot.png
+[INFO   ] [model:65] 2020-09-15 18:07:52,022 root         Saved model output/plots/model_United Kingdom_plot.png
+[INFO   ] [log_helper:11] 2020-09-15 18:07:52,022 root         train_model runtime: 15.948818922042847 sec
