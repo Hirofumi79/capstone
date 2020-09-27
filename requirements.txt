@@ -1,10 +1,6 @@
-fastapi
-uvicorn
-pandas
+
+cython
 numpy
-argparse
-matplotlib
-sklearn
-statsmodels
-joblib
-pydantic
+flask
+pandas
+scikit-learn
